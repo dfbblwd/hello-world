@@ -1,0 +1,17 @@
+http://39.104.89.17/extract/home/checkdetail?uuid=24bd5d115ce65500baf8f211c252e190&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=d5bba257176c593fbf0cc9a0e54fc2a4&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=7532cc40f9745689bd2357b03d3ca9f9&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=1ef33638c9a557d1a24a14539f992e11&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=310d14d65ae65dccb7650f42823219a2&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=19e00c31c141510c98346d04be9b1a01&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=65eb09f33ecb52088935d5d5f798cc3b&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=06e992047eec5635a4782300359bb452&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=55c467aaa90e566cab93025608488c89&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=df9b6ec069375384937c6f10f6487bc1&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=28c2a7840cb859989028a637e9c7d711&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=78acfb58e22f58d09c8fd3ffc4d943a4&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=9714bad92536522a96a209ccd54113be&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=4cba15a63b155feb815f1e94a9dfe767&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=73fb6a9efc4d557fac9e5558c1b7d03a&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=a404b11818dd57c6948099ffca09159b&info_type=选举公告
+http://39.104.89.17/extract/home/checkdetail?uuid=b870e8766bf8520695452f5fb4a23e2a&info_type=选举公告
